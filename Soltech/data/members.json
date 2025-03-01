@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Jhon Jairo Tequia",
+        "role": "Desarrollador Backend",
+        "photo": "/assets/images/members/jhon.png",
+        "description": "Mi nombre es Jhon, tengo 19 años y soy un apasionado por la tecnología. Actualmente estudio un tecnólogo en Análisis y Desarrollo de Software, y he trabajado como técnico en mantenimiento de sistemas, lo que me ha permitido adquirir experiencia en el área. Me encanta aprender sobre nuevas herramientas y explorar el mundo del desarrollo de software, especialmente en inteligencia artificial. Además, disfruto compartir mi tiempo con mi gato, Fígaro. Mi objetivo es seguir creciendo profesionalmente y convertirme en un experto en tecnología."
+    },
+    {
+        "name": "Sandra Milena David",
+        "role": "Diseñadora UX/UI",
+        "photo": "/assets/images/members/sandra.png",
+        "description": "Hola, soy Sandra, soy psicóloga especializada en infancia y adolescencia, con experiencia en el trabajo con poblaciones vulnerables. También me apasiona la tecnología y la programación, porque me interesa explorar cómo la tecnología puede mejorar el bienestar de las comunidades y crear soluciones innovadoras."
+    },
+    {
+        "name": "Gladys Lora Gomez",
+        "role": "Ingeniera en requerimientos",
+        "photo": "/assets/images/members/gladys.png",
+        "description": "Mi nombre es Gladys Lora. Nací el 14 de diciembre de 1998 y actualmente tengo 26 años. Vivo en Apartadó, Antioquia. Soy egresada del SENA en la técnica de refrigeración y actualmente trabajo como auxiliar en una empresa de aires acondicionados. En el campo de la refrigeración, es poco común ver a una mujer trabajando. Siento que, de alguna manera, es gratificante saber que soy una de las pocas que rompe esa barrera en el ámbito laboral. Sin embargo, también he logrado comprender por qué muchas no lo hacen. Hace poco me postulé para la universidad y logré ser admitida. Ahora enfrento el dilema y el miedo de romper mis propias expectativas como persona. Me gusta pasar tiempo en familia y con mi hija."
+    },
+    {
+        "name": "Wendy Julissa Herrera",
+        "role": "Desarrolladora FrondEnd",
+        "photo": "/assets/images/members/wendy.png",
+        "description": "Hola soy Wendy Julissa Herrera, tengo 24 años, actualmente me encuentro estudiando ingeniería de sistemas en la universidad del pacifico, me encanta el desarrollo web y el mundo de la programación, me encuentro adquiriendo los conocimientos para lograrlo y posicionarme en el mundo de la tecnología. Tengo conocimientos básicos sobre HTML y CSS, estoy aprendiendo Javascript y python.."
+    }
+    
+]

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="title"> Soltech</title>
+    <link rel="icon" type="image/png" href="assets/sol.ico">
+    
+    <!-- Archivos CSS -->
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/buttons.css">
+    <link rel="stylesheet" href="/css/themes.css">
+    <link rel="stylesheet" href="/css/layout.css">
+    <link rel="stylesheet" href="/css/nav-links.css">
+    <link rel="stylesheet" href="/css/button-Inicio.css">
+    
+</head>
+
+<body class="solar">  <!-- Agregado class="solar" por defecto -->
+
+    <button id="back-to-top">↑ Volver al Inicio</button>
+
+
+    <header>
+        <h1 data-i18n="welcome">Soltech: El Futuro de la Energía Renovable</h1>
+        <nav>
+            <img style="width: 120px; border-radius: 50%; " src="assets/cartoon/gumball-carousel.a94b8e60.avif" alt="">
+            <ul id="nav">
+                <li><a href="#como funciona" class="nav-link" data-i18n="nav_how">Cómo Funciona</a></li>
+                <li><a href="#Beneficios" class="nav-link" data-i18n="nav_benefits">Beneficios</a></li>
+                <li><a href="#Tendencias" class="nav-link" data-i18n="nav_trends">Tendencias</a></li>
+                <li><a href="#Presentacion" class="nav-link" data-i18n="nav_presentacion">Presentacion</a></li>
+                <li><a href="pages/grupo11.html" class="nav-link" data-i18n="nav_grupo11" >grupo11</a></li>
+            </ul>
+        </nav>
+
+        <div class="language-switch">
+            <button id="englishBtn">English</button>
+            <button id="spanishBtn">Español</button>
+            <button id="themeToggle">🌙 Cambiar Tema</button>  <!-- Corregido el ID -->
+        </div>
+    </header>
+
+    <main>
+            <h2 data-i18n="description">Bienvenido al Futuro de la Energía</h2>
+            <p data-i18n="info">Descubre cómo la energía solar está revolucionando la forma en que generamos electricidad.</p>
+    </main>
+
+    <!-- Secciones de la web-->
+    <section class="fade-section" id="como funciona">
+        <img style="width: 150px; position: absolute; right: 10px;" src="assets/cartoon/buho.png" alt="">
+        <h2 data-i18n="cf_title"></h2>
+        <p data-i18n="cf_intro"></p>
+        <p data-i18n="cf_step1"></p>
+        <p data-i18n="cf_step2"></p>
+        <p data-i18n="cf_step3"></p>
+        <p data-i18n="cf_step4"></p>
+        <p data-i18n="cf_final"></p>
+    </section>
+
+    <section class="fade-section" id="Beneficios">
+        <h2 data-i18n="bf_title"></h2>
+        <p data-i18n="bf_p1"></p>
+        <p data-i18n="bf_p2"></p>
+        <p data-i18n="bf_p3"></p>
+        <p data-i18n="bf_p4"></p>
+        <p data-i18n="bf_p5"></p>
+        <p data-i18n="bf_p6"></p>
+        <p data-i18n="bf_p7"></p>
+        <p data-i18n="bf_p8"></p>
+    </section>
+    
+    <section class="fade-section" id="Tendencias">
+        
+        <h2 id="h2-tendencias">Tendencias</h2>
+        <p> <img class="imagen-tendencias" src="assets/cartoon/tendencias.png" alt="">En los últimos años, la energía solar ha crecido rápidamente en América del Sur debido a su alto potencial solar y a inversiones en energías renovables. Países como Brasil, Chile y Argentina han liderado este crecimiento con la instalación de grandes parques solares y el impulso de políticas favorables. Chile destaca con el Desierto de Atacama, una de las mejores zonas del mundo para la generación solar, mientras que Brasil ha aumentado significativamente su capacidad fotovoltaica. La reducción de costos y el compromiso con la transición energética han sido clave en esta expansión.</p>
+        <div class="carousel-container">
+            <div class="carousel">
+                <div class="slide"><img src="../assets/Graficos/2000-2010.JPG" alt="Grafico del 2000 - 2010"></div>
+                <div class="slide"><img src="../assets/Graficos/2010-2020.JPG" alt="Grafico del 2010 - 2020"></div>
+                <div class="slide"><img src="../assets/Graficos/2020-2025.JPG" alt="Grafico del 2020 - 2025"></div>
+            </div>
+        </div>
+        <button class="button-next" onclick="moveSlide(1)">&#10095;</button>
+    </section>
+
+    <section class="fade-section" id="Presentacion">
+        
+        <h2 >Presentación</h2>
+        <p>¿Qué es Soltech?
+            Sontech es una plataforma educativa diseñada para todas las edades, donde podrás aprender sobre energía solar de manera didáctica e interactiva. Nuestro objetivo es proporcionar información clara y accesible sobre cómo funciona la energía solar, su impacto en el medio ambiente y su crecimiento en el mundo.</p>
+        <a id="enlace-presentacion" href="presentacion/Presentación Energía Solar Fotográfico Estructurado Blanco.pdf" target="_blank">Presentacion</a>
+        <div class="carousel-container2">
+            <div class="carousel2">
+                <div class="slide2"><img src="presentacion/Soltech presentación/Soltech presentación_1.jpg" alt=""></div>
+                <div class="slide2"><img src="presentacion/Soltech presentación/Soltech presentación_2.jpg" alt=""></div>
+                <div class="slide2"><img src="presentacion/Soltech presentación/Soltech presentación_3.jpg" alt=""></div>
+                <div class="slide2"><img src="presentacion/Soltech presentación/Soltech presentación_4.jpg" alt=""></div>
+                <div class="slide2"><img src="presentacion/Soltech presentación/Soltech presentación_5.jpg" alt=""></div>
+                <div class="slide2"><img src="presentacion/Soltech presentación/Soltech presentación_6.jpg" alt=""></div>
+            </div>
+        </div>
+        <button class="button-next2" onclick="moveSlide2(1)">&#10095;</button>
+    </section>
+
+    <section class="fade-section" id="energy">
+        <h1>Energia solar</h1>
+        <iframe src="presentacion/ENERGIA SOLAR.pdf" allowfullscreen></iframe>
+        
+        <p>El sol siempre va a estar ahí 😎</p>
+        <a href="https://julietcreative.my.canva.site/energia-solar" target="_blank">
+            <button id="button-energy">Descubre</button>
+        </a>
+    </section>
+
+
+    <!-- Archivos JS -->
+    <script src="/js/translations.js" defer></script>
+    <script src="/js/theme.js" defer></script> <!-- Script para el cambio de tema -->
+    <script src="/js/script.js"></script>
+    <script src="js/tendencias.js"></script>
+    <script src="js/presentacion.js"></script>
+    
+
+
+</body>
+</html>
+
