@@ -1,13 +1,25 @@
-Grupo11
-/ Jhon Jairo Tequia
-/ Sandra Milena David
-/ Gladys Lora Gomez
-/ Wendy Julissa Herrera
+# 🌞 Soltech - Grupo 11  
 
+## 👥 Integrantes  
+- **Jhon Jairo Tequia**  
+- **Sandra Milena David**  
+- **Gladys Lora Gómez**  
+- **Wendy Julissa Herrera**  
 
-Nota Importante: !Hasta el momento no alcanzamos a manejar completamente la traduccion de nuestra pagina por 
-falta de tiempo 😓 y nos duele admitir que es de lo más bonito que logramos implementar pero que no conseguimos
-dejar todo completo y que parezca trabajo echo a medias. Pero esperamos que esta pagina pueda ser usada para fines educativos.
+## 🎓 Créditos  
+Este proyecto ha sido posible gracias al **Bootcamp de Programación de Talento Tech**, una experiencia de aprendizaje excepcional. Queremos agradecer a nuestros mentores por su dedicación, paciencia y enseñanza. Desde nuestro primer *"Hola, mundo"* hasta la culminación de este trabajo en equipo, su guía ha sido invaluable.  
 
-Creditos: Bootcamp programación por Talento tech, execelente preparacion y unos mentores excelentes 
-que nos guiaron y enseñaron como iniciar desde un hola mundo hasta llegar conseguir un trabajo en equipo como este.😊
+## 📝 Nota Importante  
+Nos hubiera encantado entregar un proyecto aún más completo, pero debido al tiempo limitado, este es nuestro mejor esfuerzo. A pesar de no hacer muchas preguntas, siempre estuvimos atentos a sus explicaciones y guías.  
+
+💡 *¡Gracias, profes, por compartir su conocimiento y ayudarnos a crecer!* 😊  
+
+---
+
+## 🔗 Enlaces del Proyecto  
+
+📌 **Repositorio en GitHub:**  
+[🔗 Soltech en GitHub](https://github.com/xenthrall/Soltech.git)  
+
+🌐 **Vista previa en Netlify:**  
+[🚀 Ver Proyecto en Netlify](https://67c263212870cac6fa9bccd8--soft-tapioca-828914.netlify.app/)  
