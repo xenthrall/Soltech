@@ -1,0 +1,106 @@
+{
+    "es": {
+        "btn_return":"↑ Volver al Inicio",
+        "btn_english":"Inglés",
+        "btn_spanish":"Español",
+        "btn_themeToggle":"🌙 Cambiar Tema",
+
+
+        "title": "Soltech",
+        "welcome": "Energía Solar: El Futuro de la Energía Renovable",
+        "nav_home": "Inicio",
+        "nav_how": "Cómo Funciona",
+        "nav_benefits": "Beneficios",
+        "nav_trends": "Tendencias",
+        "nav_grupo11": "Grupo 11",
+        "description": "Bienvenido al Futuro de la Energía",
+        "info": "Descubre cómo la energía solar está revolucionando la forma en que generamos electricidad.",
+
+        "cf_title": "Cómo funciona?",
+        "cf_intro": "🌞⚡ ¡Descubre el Superpoder del Sol! ⚡🌱",
+        "cf_step1": "1️⃣ **El sol brilla** ☀️ → Sus rayos llenos de energía viajan a la Tierra. 🌍",
+        "cf_step2": "2️⃣ **Los paneles solares absorben la luz** 🏠🔋 → Son como esponjas mágicas que capturan la energía solar.",
+        "cf_step3": "3️⃣ **La energía se convierte en electricidad** ⚡ → Gracias a un proceso llamado *efecto fotovoltaico*, la luz solar se transforma en energía utilizable.",
+        "cf_step4": "4️⃣ **Se almacena o se usa al instante** 🔄 → Puedes usarla para encender luces 💡, cargar tu celular 📱 o incluso hacer funcionar una fábrica. 🏭⚙️",
+        "cf_final": "🌍✨ **¿Lo mejor? ¡Es infinita y no contamina!** Nada de humo, nada de desperdicio. Solo puro poder del sol. 🌞💚",
+
+        "bf_title": "Beneficios de la Energía Solar",
+        "bf_p1": "La energía solar no solo es ecológica, sino también una de las opciones más inteligentes para el futuro. Aquí te contamos por qué cada vez más personas apuestan por ella.",
+        "bf_p2": "💰 Ahorro a largo plazo: Aunque la inversión inicial puede parecer alta, a la larga reduce significativamente los costos de electricidad. ¡El sol no te envía facturas!",
+        "bf_p3": "☀️ Energía inagotable: A diferencia de los combustibles fósiles, la energía solar no se agota. El sol seguirá brillando por miles de millones de años.",
+        "bf_p4": "🌍 Cero emisiones contaminantes: Olvídate del humo y los gases tóxicos. La energía solar no genera contaminación ni contribuye al cambio climático.",
+        "bf_p5": "🔋 Independencia energética: Con paneles solares y baterías, puedes generar y almacenar tu propia electricidad, reduciendo la dependencia de la red eléctrica.",
+        "bf_p6": "🛠️ Bajo mantenimiento: Los paneles solares son resistentes y requieren muy poco mantenimiento. Con una limpieza ocasional, pueden durar más de 25 años.",
+        "bf_p7": "🏡 Ideal para cualquier lugar: Desde grandes ciudades hasta zonas rurales, la energía solar puede aprovecharse en cualquier parte del mundo.",
+        "bf_p8": "El futuro es solar. Es limpio, renovable y eficiente. ¿Te unes al cambio?",
+
+
+        "td_title": "Tendencias",
+        "td_p1": "En los últimos años, la energía solar ha experimentado un crecimiento acelerado en América del Sur, impulsado por su alto potencial solar y el aumento de inversiones en energías renovables. Brasil, Chile y Argentina han liderado esta expansión con la instalación de grandes parques solares y la implementación de políticas favorables. Chile destaca con el Desierto de Atacama, una de las regiones más óptimas del mundo para la generación solar, mientras que Brasil ha incrementado considerablemente su capacidad fotovoltaica. La reducción de costos y el compromiso con la transición energética han sido factores clave en este desarrollo.",
+
+
+        "ps_title":"Presentación",
+        "ps_p1":"¿Qué es Soltech?",
+        "ps_p2": "Soltech es una plataforma educativa diseñada para todas las edades, donde podrás aprender sobre energía solar de manera didáctica e interactiva. Nuestro objetivo es proporcionar información clara y accesible sobre cómo funciona la energía solar, su impacto en el medio ambiente y su crecimiento en el mundo.",
+        "ps_link":"Presentación",
+
+
+        "energy":"Energia solar",
+        "energy_p1":"El sol siempre va a estar ahí 😎 - Talento tech muchas gracias ❤️",
+        "energy_discover":"Descubre"
+
+
+
+    },
+    "en": {
+        "btn_return":"↑ Back to top",
+        "btn_english":"English",
+        "btn_spanish":"Spanish",
+        "btn_themeToggle":"🌙 Change Topic",
+
+
+        "title": "Soltech",
+        "welcome": "Solar Energy: The Future of Renewable Energy",
+        "nav_home": "Home",
+        "nav_how": "How It Works",
+        "nav_benefits": "Benefits",
+        "nav_trends": "Trends",
+        "nav_grupo11": "Group 11",
+        "description": "Welcome to the Future of Energy",
+        "info": "Discover how solar energy is revolutionizing the way we generate electricity.",
+
+        "cf_title": "How does it work?",
+        "cf_intro": "🌞⚡ Discover the Superpower of the Sun! ⚡🌱",
+        "cf_step1": "1️⃣ **The sun shines** ☀️ → Its energy-filled rays travel to Earth. 🌍",
+        "cf_step2": "2️⃣ **Solar panels absorb the light** 🏠🔋 → They act like magical sponges that capture solar energy.",
+        "cf_step3": "3️⃣ **Energy is converted into electricity** ⚡ → Thanks to a process called *the photovoltaic effect*, sunlight is transformed into usable energy.",
+        "cf_step4": "4️⃣ **It is stored or used instantly** 🔄 → You can use it to power lights 💡, charge your phone 📱, or even run a factory. 🏭⚙️",
+        "cf_final": "🌍✨ **The best part? It’s infinite and pollution-free!** No smoke, no waste. Just pure solar power. 🌞💚",
+
+
+        "bf_title": "Benefits of Solar Energy",
+        "bf_p1": "Solar energy is not only eco-friendly but also one of the smartest choices for the future. Here's why more and more people are choosing it.",
+        "bf_p2": "💰 Long-term savings: While the initial investment may seem high, it significantly reduces electricity costs in the long run. The sun doesn’t send you bills!",
+        "bf_p3": "☀️ Unlimited energy: Unlike fossil fuels, solar energy doesn’t run out. The sun will keep shining for billions of years.",
+        "bf_p4": "🌍 Zero pollutant emissions: Forget about smoke and toxic gases. Solar energy does not cause pollution or contribute to climate change.",
+        "bf_p5": "🔋 Energy independence: With solar panels and batteries, you can generate and store your own electricity, reducing dependence on the power grid.",
+        "bf_p6": "🛠️ Low maintenance: Solar panels are durable and require very little upkeep. With occasional cleaning, they can last over 25 years.",
+        "bf_p7": "🏡 Ideal for any location: From big cities to rural areas, solar energy can be harnessed anywhere in the world.",
+        "bf_p8": "The future is solar. It’s clean, renewable, and efficient. Will you join the change?",
+
+
+        "td_title": "Trends",
+        "td_p1": "In recent years, solar energy has experienced rapid growth in South America, driven by its high solar potential and increasing investments in renewable energy. Brazil, Chile, and Argentina have led this expansion with the installation of large solar farms and the implementation of favorable policies. Chile stands out with the Atacama Desert, one of the world's most optimal regions for solar generation, while Brazil has significantly increased its photovoltaic capacity. Cost reduction and commitment to the energy transition have been key factors in this development.",
+
+        "ps_title": "Presentation",
+        "ps_p1": "What is Soltech?",
+        "ps_p2": "Soltech is an educational platform designed for all ages, where you can learn about solar energy in a fun and interactive way. Our goal is to provide clear and accessible information about how solar energy works, its impact on the environment, and its growth worldwide.",
+        "ps_link": "Presentation",
+
+        "energy": "Solar Energy",
+        "energy_p1": "The sun will always be there 😎 - Tech talent thank you very much❤️",
+        "energy_discover": "Discover"
+
+
+    }
+}
